@@ -11,7 +11,8 @@
 Normalize Sass is a configurable normalize.css version for Sass. Every file is written with the extension '.scss'.
 
 I'm not going to write a whole documentation for this project, because i'm not the creator of normalize.css. Please visit their own website for further information.
-[link](https://necolas.github.io/normalize.css/ "Website of normalize.css")
+
+[Website of normalize.css](https://necolas.github.io/normalize.css/ "Website of normalize.css")
 
 ## Install Normalize Sass
 
