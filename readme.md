@@ -56,4 +56,4 @@ MIT License - Created by [Cyril de Wit](https://github.com/cyrildewit "Github pr
 
 ## Changelog
 
-* V1.alpha-1.0 | Thinking & Experimenting
+* V1.0.0 | Official release of V1
