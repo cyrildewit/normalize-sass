@@ -1,0 +1,20 @@
+{
+  "name": "Normalize Sass",
+  "version": "1.0.0",
+  "description": "A configurable normalize.css for Sass",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "npm install && gulp"
+  },
+  "author": "Cyril de Wit",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cyrildewit/normalize-sass.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+  }
+}
