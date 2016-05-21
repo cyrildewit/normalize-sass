@@ -1,4 +1,4 @@
-# Normalize Sass V1.alpha-1.0
+# Normalize Sass V1.0.0
 
 <a href="https://david-dm.org/cyrildewit/normalize-sass" title="Dependency status">
     <img src="https://david-dm.org/cyrildewit/normalize-sass.svg" />
