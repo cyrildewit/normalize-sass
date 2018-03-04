@@ -53,7 +53,7 @@ https://github.com/necolas/normalize.css/
 
 ## License
 
-MIT License - Created by [Cyril de Wit](https://github.com/cyrildewit "Github profile page of Cyril de Wit")
+MIT License
 
 ## Changelog
 
